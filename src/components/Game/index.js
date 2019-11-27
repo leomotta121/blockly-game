@@ -12,6 +12,14 @@ export default function Game() {
       <div id="game"></div>
       <div id="blockly"></div>
       <button id="run">Correr</button>
+
+      <a
+        href="https://festive-golick-206b4d.netlify.com/"
+        style={{ display: "block", marginTop: "10px" }}
+      >
+        voltar para o site
+      </a>
+
       <xml id="toolbox" style={{ display: "none" }}>
         <block type="when_run"></block>
         <block type="move_forward"></block>
