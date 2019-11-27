@@ -1,0 +1,8 @@
+#game {
+  float: left;
+}
+#blockly {
+  width: 600px;
+  height: 400px;
+  float: left;
+}
